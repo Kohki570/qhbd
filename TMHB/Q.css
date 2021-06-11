@@ -1,19 +1,46 @@
+
+.kamid{
+    text-align: center;
+}
+
 .kami{
-    width: 618px;
+    width:600px;
+    
+}
+.hints{
+    text-align: center;
 }
 .hint{
-    margin-left:130px;
+    
     font-size: 30px;
+    
 }
 .relive{
     margin-left: 80px;
     font-size: 30px;
 }
+
+.an{
+    text-align: center;
+}
 .a{
     margin-top: 20px;
-    margin-left: 250px;
+  
     font-size: 30px;
 }
 body{
     background-color: rgb(209, 145, 145);
 }
+
+
+@media only screen and (max-width : 736px){
+    
+    .kami {
+         width: 100%;
+         }
+    
+    .sp-dsp {
+         display:block; 
+        }
+    
+    }
