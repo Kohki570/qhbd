@@ -1,0 +1,19 @@
+.kami{
+    width: 618px;
+}
+.hint{
+    margin-left:130px;
+    font-size: 30px;
+}
+.relive{
+    margin-left: 80px;
+    font-size: 30px;
+}
+.a{
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(209, 145, 145);
+}
