@@ -1,0 +1,28 @@
+.happy{
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.birthday{
+    float: left;
+    margin-left: 100px;
+}
+.two{
+    clear: both;
+}
+.twotwo{
+    margin-left: 305px;
+    font-size: 35px;
+    position: absolute;
+    top: 541px;
+    left: 20px;
+}
+.cake{
+    width: 384px;
+    margin-left:150px;
+   
+}
+body{
+    background-color: rgb(199, 232, 241);
+}
